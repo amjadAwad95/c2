@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\GIGABYTE\Desktop\CAP\programing\C2\My_String\My_String\Source.cpp(14,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\GIGABYTE\Desktop\CAP\programing\C2\My_String\My_String\Source.cpp(19,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\GIGABYTE\Desktop\CAP\programing\C2\My_String\My_String\Source.cpp(33,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\GIGABYTE\Desktop\CAP\programing\C2\My_String\My_String\Source.cpp(51,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\GIGABYTE\Desktop\CAP\programing\C2\My_String\My_String\Source.cpp(59,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\GIGABYTE\Desktop\CAP\programing\C2\My_String\My_String\Source.cpp(102,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\GIGABYTE\Desktop\CAP\programing\C2\My_String\My_String\Source.cpp(148,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  My_String.vcxproj -> C:\Users\GIGABYTE\Desktop\CAP\programing\C2\My_String\x64\Debug\My_String.exe

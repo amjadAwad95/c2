@@ -1,0 +1,3 @@
+amjad 100
+omar 99
+ahmad 98
